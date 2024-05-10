@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
+    "@fontsource/roboto": "^5.0.13",
+    "@mui/material": "^5.15.17",
+    "chart.js": "^4.4.2",
+    "styled-components": "^6.1.10"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.3"
+  }
+}
